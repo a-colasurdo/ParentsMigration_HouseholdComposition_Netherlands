@@ -1,2 +1,2 @@
-# ParentsMigration_HouseholdComposition_Netherlands
-Reproducible resources for "The Role of Migration History and Household Structure in Internal Migration: Evidence from the Netherlands, 1850-1940"
+# Reproducible resources for "The Role of Migration History and Household Structure in Internal Migration: Evidence from the Netherlands, 1850-1940"
+The data used in this study are available from the International Institute of Social History, Amsterdam, the Netherlands (https://iisg.amsterdam/en/hsn). Restrictions apply to the availability of these data, which were used under license for this study. 
